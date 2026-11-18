@@ -1,7 +1,5 @@
 # 🧮 Integral dan Aplikasi Teknik Elektro (Python SymPy)
 
-Materi dan solusi komputasi simbolik untuk Pertemuan 3 mata kuliah **Pemrograman Komputer Lanjut**, Teknik Elektro Universitas Widya Gama Malang.
-
 ---
 
 ## 📌 Deskripsi Program
@@ -116,14 +114,3 @@ Daya rata-rata = 21 W
 vC(t)    = 10t + 1  V
 vC(0.3s) = 4 V
 ```
-
----
-
-## 🔗 Referensi
-
-- Modul Kuliah: Pertemuan 3 Integral menggunakan Python — Dr. Istiadi, ST., MT.
-- [Dokumentasi resmi SymPy](https://docs.sympy.org/)
-
----
-
-*Tugas Pemrograman Komputer Lanjut — Teknik Elektro, Universitas Widya Gama Malang*
