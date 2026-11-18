@@ -1,7 +1,5 @@
 # 🧮 Turunan dan Arus Kapasitor (Python SymPy)
 
-Solusi komputasi simbolik untuk latihan Pertemuan 2 mata kuliah **Pemrograman Komputer Lanjut**, Teknik Elektro Universitas Widya Gama Malang.
-
 ---
 
 ## 📌 Deskripsi Program
@@ -80,12 +78,3 @@ i(t=3)    = 5.72 mA
 ```
 
 ---
-
-## 🔗 Referensi
-
-- Modul Kuliah: Pertemuan 2 Turunan menggunakan Python — Dr. Istiadi, ST., MT.
-- [Dokumentasi resmi SymPy](https://docs.sympy.org/)
-
----
-
-*Tugas Pemrograman Komputer Lanjut — Teknik Elektro, Universitas Widya Gama Malang*
